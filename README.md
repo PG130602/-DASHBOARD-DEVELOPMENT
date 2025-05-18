@@ -70,3 +70,7 @@ A few high-cost hospitals do not correspond with better outcomes.Regional dispar
 
 # 👤 Author
 This project was created by Pavan Gokak as part of a task for the company CODTECH IT SOLUTIONS, showcasing the capabilities of Power BI for healthcare data analysis. It demonstrates how interactive dashboards can uncover actionable insights in the healthcare sector, emphasizing the importance of data-driven decision-making and the practical application of business intelligence tools in real-world scenarios.
+
+![Image](https://github.com/user-attachments/assets/6ad52bef-f8c0-40b8-a522-266c62ad0b4d)
+![Image](https://github.com/user-attachments/assets/e460614b-c604-4632-9fcf-a6ce023423e1)
+![Image](https://github.com/user-attachments/assets/5641504b-97d5-4cfc-80e6-de528461870d)
